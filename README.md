@@ -1,0 +1,2 @@
+# sublimefm-player
+stream sublimefm
